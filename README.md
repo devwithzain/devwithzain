@@ -36,7 +36,7 @@
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 <br />
 
-<a href="https://github.com/ZainAliSiddiqui">
+<a href="https://github.com/ZainAli97">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZainAli97&theme=buefy&show_icons=true" />
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli97&theme=buefy&layout=compact" />
 </a>
