@@ -37,8 +37,8 @@
 <br />
 
 <a href="https://github.com/ZainAli97">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZainAli97&theme=buefy&show_icons=true" />
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAli97&theme=buefy&layout=compact" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZainAliSiddiqui&theme=buefy&show_icons=true" />
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAliSiddiqui&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -52,4 +52,4 @@
 <a href="mailto:zainsoftwear11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zainsoftwear11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ZainAli97](https://github.com/ZainAli97)
+⭐️ From [ZainAliSiddiqui](https://github.com/ZainAliSiddiqui)
