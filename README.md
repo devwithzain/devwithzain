@@ -46,7 +46,7 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zain-ali-siddiqui-50a163266/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Zain%20Ali%20Siddiqui-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/zainalisiddiqui/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Zain%20Ali%20Siddiqui-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/zainalisiddiqui11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zainalisiddiqui11-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/ZainAliSiddiqi/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ZainAliSiddiqi-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:zainsoftwear11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zainsoftwear11@gmail.com-blue?style=flat-square&logo=gmail"></a>
