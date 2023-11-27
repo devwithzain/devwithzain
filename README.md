@@ -18,7 +18,7 @@
   ![Tailwind](https://img.shields.io/badge/-Tailwind-Sql?logo=tailwindcss&logoColor=%2306B6D4&color=333333)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-js?style=flat&logo=nextdotjs&logoColor=%23000000&color=333333)
+  ![Next](https://img.shields.io/badge/-Next-js?style=flat&logo=nextdotjs&logoColor=%2ffffff&color=333333)
 - 🛢 &nbsp;
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![PostgreSql](https://img.shields.io/badge/-Postgre-Sql%20?logo=postgresql&logoColor=%23ffffff&color=333333)
