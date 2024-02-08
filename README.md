@@ -16,7 +16,6 @@
   ![TavaScript](https://img.shields.io/badge/TypeScript-%233E3E3E?style=flat&logo=typescript)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
   ![Tailwind](https://img.shields.io/badge/-Tailwind-Sql?logo=tailwindcss&logoColor=%2306B6D4&color=333333)
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
