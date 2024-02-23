@@ -1,4 +1,4 @@
-  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zain+Ali!;" /> </h1>
+  <h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Zain!;" /> </h1>
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
@@ -37,9 +37,9 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
 <br />
 
-<a href="https://github.com/ZainAliSiddiqui">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=ZainAliSiddiqui&theme=buefy&show_icons=true" />
-  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZainAliSiddiqui&theme=buefy&layout=compact" />
+<a href="https://github.com/devwithzain">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=devwithzain&theme=buefy&show_icons=true" />
+  <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithzain&theme=buefy&layout=compact" />
 </a>
 
 <br/>
@@ -47,10 +47,10 @@
 <h3> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/zainalisiddiqui/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Zain%20Ali%20Siddiqui-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/zainalisiddiqui11/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zainalisiddiqui11-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/devwithzain/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-Zain%20Ali%20Siddiqui-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.instagram.com/devwithzain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-zainalisiddiqui11-blue?style=flat-square&logo=instagram"></a>
 <a href="https://www.twitter.com/ZainAliSiddiqi/"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-ZainAliSiddiqi-blue?style=flat-square&logo=twitter"></a>
 <a href="mailto:zainsoftwear11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zainsoftwear11@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [ZainAliSiddiqui](https://github.com/ZainAliSiddiqui)
+⭐️ From [devwithzain](https://github.com/devwithzain)
