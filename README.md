@@ -4,12 +4,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-<p align="center">
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science at University of Karachi, Pakistan.
   - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
   - ✍️ &nbsp; Pursuing Graphic Design and Gaming as hobbies/side hustles.
-</p>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
