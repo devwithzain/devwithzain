@@ -43,8 +43,8 @@
 <br />
 
 <a href="https://github.com/devwithzain">
-  <img align="right" height="200rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithzain&theme=buefy&layout=compact" />
-  <img height="" src="https://github-readme-stats.vercel.app/api?username=devwithzain&theme=buefy&show_icons=true" />
+  <img align="right" height="160rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devwithzain&theme=buefy&layout=compact" />
+  <img height="160rem" src="https://github-readme-stats.vercel.app/api?username=devwithzain&theme=buefy&show_icons=true" />
 </a>
 
 <br/>
