@@ -16,30 +16,30 @@
 <br/>
   
 - 💻 &nbsp;
-  ![Python](https://img.shields.io/badge/Python-%233E3E3E?style=flat&logo=python)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![TavaScript](https://img.shields.io/badge/TypeScript-%233E3E3E?style=flat&logo=typescript)
+  ![Python](https://img.shields.io/badge/Python-%233E3E3E?style=for-the-badge&logo=python)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+  ![TavaScript](https://img.shields.io/badge/TypeScript-%233E3E3E?style=for-the-badge&logo=typescript)
 - 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-Sql?logo=tailwindcss&logoColor=%2306B6D4&color=333333)
-  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![Next](https://img.shields.io/badge/-Next-js?style=flat&logo=nextdotjs&logoColor=%2ffffff&color=333333)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=HTML5)
+  ![Tailwind](https://img.shields.io/badge/-Tailwind-Sql?style=for-the-badge&logo=tailwindcss&?logoColor=%2306B6D4&color=333333)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+  ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+  ![Next](https://img.shields.io/badge/-Next-js?style=for-the-badge&logo=nextdotjs&logoColor=%2ffffff&color=333333)
 - 🛢 &nbsp;
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-  ![PostgreSql](https://img.shields.io/badge/-Postgre-Sql%20?logo=postgresql&logoColor=%23ffffff&color=333333)
-  ![Prisma](https://img.shields.io/badge/-Prisma-Sql?logo=prisma&logoColor=%23ffffff&color=333333)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
+  ![PostgreSql](https://img.shields.io/badge/-Postgre-Sql%20?style=for-the-badge&logo=postgresql&logoColor=%23ffffff&color=333333)
+  ![Prisma](https://img.shields.io/badge/-Prisma-Sql?style=for-the-badge&logo=prisma&logoColor=%23ffffff&color=333333)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![Docker](https://img.shields.io/badge/-Docker-Sql?logo=docker&logoColor=%23ffffff&color=333333)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+  ![Docker](https://img.shields.io/badge/-Docker-Sql?style=for-the-badge&logo=docker&logoColor=%23ffffff&color=333333)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=for-the-badge&logo=markdown)
 - 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Static Badge](https://img.shields.io/badge/PyCharm-%233E3E3E?style=flat&logo=pycharm)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+  ![Static Badge](https://img.shields.io/badge/PyCharm-%233E3E3E?style=for-the-badge&logo=pycharm)
 - 🖥 &nbsp;
-  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
+  ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=for-the-badge&logo=adobe-illustrator)
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 <br />
 
 <a href="https://github.com/devwithzain">
