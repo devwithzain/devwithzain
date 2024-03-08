@@ -3,6 +3,7 @@
 </h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
+<br/>
 
   - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
   - 🎓 &nbsp; Studying Computer Science at University of Karachi, Pakistan.
