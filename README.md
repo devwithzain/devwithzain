@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Muhammad+Zain!;" /> 
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zain+Ali!;" /> 
 </h1>
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
@@ -52,8 +52,8 @@
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/devwithzain/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-MuhammadZain-blue?style=for-the-badge&logo=linkedin"></a>
-<a href="https://www.instagram.com/devwithzain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-MuhammadZain-blue?style=for-the-badge&logo=instagram"></a>
+<a href="https://www.linkedin.com/in/devwithzain/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-ZainAli-blue?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.instagram.com/devwithzain/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ZainAli-blue?style=for-the-badge&logo=instagram"></a>
 <a href="mailto:zainsoftwear11@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-zainsoftwear11@gmail.com-blue?style=for-the-badge&logo=gmail"></a>
 </p>
 
