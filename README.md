@@ -50,6 +50,8 @@
 
 <br/>
 
+![snake gif](https://github.com/devwithzain/devwithzain/blob/output/github-contribution-grid-snake.gif)
+
 <h2> 🤝🏻 &nbsp;Connect with Me </h2>
 
 <p align="center">
