@@ -59,7 +59,3 @@
 </p>
 
 ⭐️ From [devwithzain](https://github.com/devwithzain)
-
-## Snake eating my contribution graph
-![snake gif](https://github.com/devwithzain/devwithzain/blob/output/github-contribution-grid-snake.gif)
-![snake svg](https://github.com/devwithzain/devwithzain/blob/output/github-contribution-grid-snake.svg)
