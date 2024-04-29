@@ -2,7 +2,6 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zain+Ali!;" /> 
 </h1>
 
-<img align="right" src="https://visitcount.itsvg.in/api?id=devwithzain&label=Profile%20Views&color=12&icon=0&pretty=true(https://visitcount.itsvg.in)" />
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
 <br/>
@@ -62,3 +61,4 @@
 </p>
 
 ⭐️ From [devwithzain](https://github.com/devwithzain)
+<img align="right" src="https://visitcount.itsvg.in/api?id=devwithzain&label=Profile%20Views&color=12&icon=0&pretty=true(https://visitcount.itsvg.in)" />
