@@ -45,9 +45,8 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=for-the-badge&logo=adobe-photoshop)
 <br />
 
-<a href="https://github.com/devwithzain">
-  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=devwithzain&theme=dark&show_icons=true&hide_border=true&count_private=true" />
-  <img height="160px" align="right" src="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=devwithzain&theme=transparent" alt="GitHub Streak" />
+<a href="https://github.com/devwithzain" width="100%">
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com?user=devwithzain&theme=transparent" alt="GitHub Streak" />
 </a>
 
 <br/>
@@ -65,4 +64,4 @@
 </p>
 
 ⭐️ From [devwithzain](https://github.com/devwithzain)
-<img align="right" src="https://profile-counter.glitch.me/{devwithzain}/count.svg" />
+<img align="right" src="https://komarev.com/ghpvc/?username=devwithzain" />
