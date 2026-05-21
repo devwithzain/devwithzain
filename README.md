@@ -1,3 +1,7 @@
+<p>
+<img width="100%" src="https://camo.githubusercontent.com/c504c7baf8519d0cdada8b7de7c906ed5fc3bbf40e6d23f1de9ab8394619071f/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d613361336133266865696768743d3133302673656374696f6e3d686561646572"/>
+</p>
+
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Zain+Ali!;" /> 
 </h1>
@@ -65,3 +69,7 @@
 
 ⭐️ From [devwithzain](https://github.com/devwithzain)
 <img align="right" src="https://komarev.com/ghpvc/?username=devwithzain" />
+
+<p>
+<img width="100%" src="https://camo.githubusercontent.com/84fdd4dd08a6fb4ccec37865d786742878117516bf591d8a1db6c197d88206d0/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d613361336133266865696768743d3133302673656374696f6e3d666f6f746572"/>
+</p>
